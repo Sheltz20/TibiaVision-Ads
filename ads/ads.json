@@ -1,7 +1,7 @@
 [
   {
-    "id": "placeholder1",
-    "gifUrl": "https://github.com/Sheltz20/TibiaVision-Ads/blob/main/ads/tibiablackjack.webp",
+    "id": "tibiablackjack",
+    "imageUrl": "https://raw.githubusercontent.com/Sheltz20/TibiaVision-Ads/main/ads/tibiablackjack.webp",
     "clickUrl": "https://tibiablackjack.com/",
     "label": "Tibia Blackjack"
   }
