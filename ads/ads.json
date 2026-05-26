@@ -3,6 +3,12 @@
     "id": "tibiablackjack",
     "imageUrl": "https://raw.githubusercontent.com/Sheltz20/TibiaVision-Ads/main/ads/tibiablackjack.webp",
     "clickUrl": "https://tibiablackjack.com/",
-    "label": "TibiaVision Affiliated Partner"
+    "label": "Tibia Blackjack"
+  },
+  {
+    "id": "magiczny",
+    "imageUrl": "https://raw.githubusercontent.com/Sheltz20/TibiaVision-Ads/main/ads/magiczny%20tibia%20(1).png",
+    "clickUrl": "https://magicznytibia.com/",
+    "label": "Magiczny Tibia"
   }
 ]
