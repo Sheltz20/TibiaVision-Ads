@@ -3,12 +3,18 @@
     "id": "tibiablackjack",
     "imageUrl": "https://raw.githubusercontent.com/Sheltz20/TibiaVision-Ads/main/ads/tibiablackjack.webp",
     "clickUrl": "https://tbj.one/?ref=BennyTV",
-    "label": ""
+    "label": "Tibia Blackjack"
   },
   {
     "id": "magiczny",
     "imageUrl": "https://raw.githubusercontent.com/Sheltz20/TibiaVision-Ads/main/ads/magiczny%20tibia.webp",
     "clickUrl": "https://magicznytibia.com/",
-    "label": ""
+    "label": "Magiczny"
+  },
+  {
+    "id": "BestiaryArena",
+    "imageUrl": "https://raw.githubusercontent.com/Sheltz20/TibiaVision-Ads/main/ads/skyscraper10.png",
+    "clickUrl": "https://bestiaryarena.com/?t=tibiavision",
+    "label": "Bestiary Arena"
   }
 ]
