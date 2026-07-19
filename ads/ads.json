@@ -10,5 +10,11 @@
     "imageUrl": "https://raw.githubusercontent.com/Sheltz20/TibiaVision-Ads/main/ads/magicznymobile.png",
     "clickUrl": "https://magicznytibia.com/",
     "label": "Magiczny"
+  },
+  {
+    "id": "IglaOTS",
+    "imageUrl": "https://raw.githubusercontent.com/Sheltz20/TibiaVision-Ads/main/ads/IglaOTS.png",
+    "clickUrl": "https://iglaots.net/",
+    "label": "IglaOTS"
   }
 ]
